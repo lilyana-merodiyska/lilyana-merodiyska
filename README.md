@@ -37,3 +37,4 @@ An example of how I work: a full manual testing process on a demo web shop: requ
 
 ## Contact
 - email : lilyanamerodiyska@gmail.com
+- LinkedIn: [Lilyana Merodiyska] https://www.linkedin.com/in/lilyana-merodiyska-35b015430/?isSelfProfile=true
