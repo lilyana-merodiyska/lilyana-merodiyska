@@ -1,6 +1,6 @@
 # Hi, I'm Lilyana 👋
 
-I'm an aspiring **Manual QA Engineer** from Ruse, Bulgaria, looking for my first role in software testing.
+I'm an aspiring **Manual QA Engineer** based in Sofia, Bulgaria, looking for my first role in software testing.
 
 ## My background
 I currently work as a **behaviour therapist**. My daily work is built on skills that carry over directly to QA:
